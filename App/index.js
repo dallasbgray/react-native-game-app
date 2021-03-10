@@ -212,6 +212,8 @@ class App extends React.Component {
         }
     }
 
+
+
     componentDidMount() {
         this.draw();
     }
